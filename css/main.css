@@ -1,0 +1,57 @@
+body {
+  background-color: #ff931c;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  font-size: 100px;
+  color: #f8f8f8;
+  font-weight: bold;
+  font-family: arial;
+  text-decoration: underline overline black;
+}
+h2 {
+  text-align: center;
+  font-size: 50px;
+  color: #4c1b1b;
+  font-weight: bold;
+  font-family: arial;
+  text-transform: uppercase;
+  text-decoration: underline #ff931c;
+}
+h3 {
+  text-align: center;
+  font-size: 35px;
+  color: #4c1b1b;
+  font-family: arial;
+  text-decoration: underline #ff931c;
+
+}
+p {
+  font-size: 20px;
+  padding: 0 20%;
+}
+span {
+  color: purple;
+  font-style: italic;
+}
+img {
+  width: 40%;
+  margin: 0 30% 3% 30%;
+  text-align: center;
+}
+section.espece {
+  background-color: #ffedd0;
+  margin: 20px 50px;
+  padding: 20px;
+}
+section.sous-especes {
+  background-color: #ffedd0;
+  margin: 20px 50px;
+  padding: 20px;
+}
+section.hybrides {
+  background-color: #ffedd0;
+  margin: 20px 50px;
+  padding: 20px;
+}
